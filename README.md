@@ -22,7 +22,7 @@ Date_Time: Date of transaction
 
 Account_id: Unique account identifier
 
-2. ACCOUNT (Customer Data)
+### 2. ACCOUNT (Customer Data)
 
 This table contains details about customer accounts:
 
@@ -42,7 +42,7 @@ Postal_code: Postal code of the account
 
 street_name, Street_number: Address details
 
-3. PLANT HIERARCHY (Product Data)
+### 3. PLANT HIERARCHY (Product Data)
 
 This table provides a classification of products:
 
@@ -92,7 +92,7 @@ Purpose: Display key performance indicators (KPIs) for quick business insights
 
 Getting Started
 
-Clone this repository to your local machine:
+### Clone this repository to your local machine:
 
 git clone https://github.com/yourusername/your-repo-name.git
 
@@ -102,10 +102,10 @@ Ensure data sources are properly connected.
 
 Explore the dashboard and interact with the visualizations.
 
-Contributions
+### Contributions
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
-License
+### License
 
 This project is licensed under the MIT License.
