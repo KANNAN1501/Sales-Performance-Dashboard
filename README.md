@@ -94,7 +94,7 @@ Getting Started
 
 ### Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/KANNAN1501/Sales-Performance-Dashboard.git
 
 Open the Power BI file (.pbix) in Power BI Desktop.
 
